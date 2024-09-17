@@ -1,8 +1,8 @@
-### Title: **SQLite Data Querying Application**
+## Title: **SQLite Data Querying Application**
 
 ---
 
-### Description:
+## Description:
 
 This project is a Python-based application designed to query a SQLite database and present the data to the user in various formats (tabular, JSON, XML). The user can perform several predefined queries, store the results in files, and interact with the data through the command-line interface. The database structure includes information about students, courses, reviews, and addresses.
 
@@ -29,13 +29,13 @@ This application allows users to interact with an SQLite database, query various
 - Tabulate the results for better readability.
   
 ## Features
-1. **Query student subjects by ID**.
-2. **Look up a student's address by first and last name**.
-3. **List reviews for a specific student**.
-4. **List courses taught by a specific teacher**.
-5. **List students who haven’t completed their courses**.
-6. **List students who completed their course but scored <= 30**.
-7. **Store query results in JSON or XML format**.
+1. Query student subjects by ID.
+2. Look up a student's address by first and last name.
+3. List reviews for a specific student.
+4. List courses taught by a specific teacher.
+5. List students who haven’t completed their courses.
+6. List students who completed their course but scored <= 30.
+7. Store query results in JSON or XML format.
 
 ## Prerequisites
 - Python 3.x installed on your machine.
